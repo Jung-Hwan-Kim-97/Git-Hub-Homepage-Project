@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+}
+.box1{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  display: flex;
+}
+
+.box2{
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
